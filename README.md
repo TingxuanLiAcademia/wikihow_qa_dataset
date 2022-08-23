@@ -2,7 +2,7 @@
 - A generative question answering dataset collected from wikihow_japanese
 
 ## Structure of the directory
-'''
+```
 .
 |-- README.md
 |-- wikihow_qa
@@ -31,7 +31,7 @@
         `-- scrape4json.py
 
 11 directories, 14 files
-'''
+```
 
 ## Web scraping
 - The scraping script is reference to [wikihow_japanese](https://github.com/Katsumata420/wikihow_japanese)
