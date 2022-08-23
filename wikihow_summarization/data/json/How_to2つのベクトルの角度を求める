@@ -1,0 +1,66 @@
+{
+  "contents": [
+    {
+      "part_contents": [
+        {
+          "article": "2つのベクトルの角度θを知るために、角度のコサインを求める公式を使いましょう。 記事の後半では、この公式について学ぶことができます。それでは早速公式を書いてみましょう。cosθ = (u→{\\displaystyle {\\overrightarrow {u}}} • v→{\\displaystyle {\\overrightarrow {v}}}) / (|u→{\\displaystyle {\\overrightarrow {u}}}| |v→{\\displaystyle {\\overrightarrow {v}}}|)||u→{\\displaystyle {\\overrightarrow {u}}}|| は「u→{\\displaystyle {\\overrightarrow {u}}}の大きさ」を表しています。u→{\\displaystyle {\\overrightarrow {u}}} • v→{\\displaystyle {\\overrightarrow {v}}}は、内積（スカラー積）です。内積の詳細については後述します。",
+          "bold_line": "コサインについての公式を書く"
+        },
+        {
+          "article": "2つのベクトルに関して分かっている情報をすべて書き出しましょう。下の例題では、ベクトルの寸法座標（成分と呼ばれます）のみ与えられています。すでにベクトルの長さ（大きさ）が分かっている場合、以下のいくつかのステップを飛ばすことができます。例題：2次元ベクトル u→{\\displaystyle {\\overrightarrow {u}}} = (2,2)とv→{\\displaystyle {\\overrightarrow {v}}} = (0,3)があります。これらのベクトルはu→{\\displaystyle {\\overrightarrow {u}}} = 2i + 2j 、v→{\\displaystyle {\\overrightarrow {v}}} = 0i + 3j = 3jと表すことができます。例題は2次元ベクトルを使っていますが、以下に述べる方法は成分の数がいくつであっても適用できます。",
+          "bold_line": "ベクトルを確認する"
+        },
+        {
+          "article": "ベクトルのx成分、y成分、そのベクトル自身を3辺にして直角三角形を描きましょう。そのベクトル自身は斜辺となるので、ピタゴラスの定理を用いれば、ベクトルの長さがわかります。結論から述べると、この式は成分の数がいくつであっても成立します。|u| = u1 + u2ベクトルが3つ以上の成分を持つ場合、次のように単純に成分を増やして足しましょう。+u3 + u4 + ...従って、2次元ベクトルの長さは次の式になります。|u| = √(u1 + u2)今回の例では次のようになります。|u→{\\displaystyle {\\overrightarrow {u}}}| = √(2 + 2) = √(8) = 2√2|v→{\\displaystyle {\\overrightarrow {v}}}| = √(0 + 3) = √(9) = 3.",
+          "bold_line": "それぞれのベクトルの長さを計算する"
+        },
+        {
+          "article": "ベクトルの内積を計算する方法は、「スカラー積」とも呼ばれますが、高校生以上のみなさんはおそらくすでに学校で習っています。ベクトルの成分に関して内積を計算するために、2つのベクトルのx成分の積とy成分の積をそれぞれ求めて、その結果をすべて足しましょう。コンピューターグラフィックスプログラムに内積を利用する場合、続きを読む前にポイントを読みましょう。",
+          "bold_line": "2つのベクトルの内積を計算する"
+        },
+        {
+          "article": "公式cosθ = (u→{\\displaystyle {\\overrightarrow {u}}} • v→{\\displaystyle {\\overrightarrow {v}}}) / (||u→{\\displaystyle {\\overrightarrow {u}}}|| ||v→{\\displaystyle {\\overrightarrow {v}}} ||)に戻りましょう。それぞれのベクトルの内積と長さの値は、両方ともすでに求めました。cosθを計算するため、内積と長さの値をこの公式に当てはめましょう。",
+          "bold_line": "計算結果を公式に当てはめる"
+        },
+        {
+          "article": "関数電卓のarccosまたはcosの機能を使うと、cos θの値をもとに角度を求めることができます。求めた値によっては、単位円を利用して角度がわかる場合もあります。",
+          "bold_line": "コサインの値をもとに角度を求める"
+        }
+      ],
+      "part_title": "2つのベクトルの角度を求める"
+    },
+    {
+      "part_contents": [
+        {
+          "article": "この公式は既存の規則に由来するものではなく、2つのベクトルの内積と角度の定義として生まれました。 しかしながら、この取り決めは偶然に生まれたものではありません。基礎幾何学を振り返ると、この公式がなぜ実用的で、直感で理解できる明確な形になっているのかを理解することができます。以下の例は、3次元以上のベクトルよりも直感的に使えるという理由から、2次元ベクトルを使っています。3つ以上の成分を持つベクトルも、まったく同様の方法で示される性質を持っています。",
+          "bold_line": "この公式の意義を理解する"
+        },
+        {
+          "article": "辺aと辺bのなす角度がθで残りの辺を辺cとする通常の三角形を考えましょう。余弦定理は c = a + b -2abcos(θ)と表されます。この式はごく簡単に基礎幾何学から導かれます。",
+          "bold_line": "余弦定理を再考察する"
+        },
+        {
+          "article": "2次元ベクトルを2本、すなわちa→{\\displaystyle {\\overrightarrow {a}}}とb→{\\displaystyle {\\overrightarrow {b}}}を角度θを作るように紙に書き出しましょう。三角形を作るために3本目のベクトルを書きましょう。言い換えるならば、b→{\\displaystyle {\\overrightarrow {b}}} + c→{\\displaystyle {\\overrightarrow {c}}} = a→{\\displaystyle {\\overrightarrow {a}}}を満たすc→{\\displaystyle {\\overrightarrow {c}}}を書きます。c→{\\displaystyle {\\overrightarrow {c}}}について解くと、c→{\\displaystyle {\\overrightarrow {c}}} = a→{\\displaystyle {\\overrightarrow {a}}} - b→{\\displaystyle {\\overrightarrow {b}}}となります。",
+          "bold_line": "三角形を作って2つのベクトルを結びつける"
+        },
+        {
+          "article": "この「ベクトルで作った三角形」の辺の長さを余弦定理に当てはめましょう。|(a - b)| = |a| + |b| - 2|a| |b|cos(θ)",
+          "bold_line": "この三角形について余弦定理を書く"
+        },
+        {
+          "article": "内積とは、そもそも、あるベクトルがもう一方のベクトルから受ける増幅度を表すものです。方向も大きさも同じベクトルの内積は、なす角度が0度なので、増幅の度合いを考える必要はありません。すなわち、 a→{\\displaystyle {\\overrightarrow {a}}} • a→{\\displaystyle {\\overrightarrow {a}}} = |a|となります。これを余弦定理の方程式に当てはめると、次のようになります。(a→{\\displaystyle {\\overrightarrow {a}}} - b→{\\displaystyle {\\overrightarrow {b}}}) • (a→{\\displaystyle {\\overrightarrow {a}}} - b→{\\displaystyle {\\overrightarrow {b}}}) = a→{\\displaystyle {\\overrightarrow {a}}} • a→{\\displaystyle {\\overrightarrow {a}}} + b→{\\displaystyle {\\overrightarrow {b}}} • b→{\\displaystyle {\\overrightarrow {b}}} - 2|a| |b|cos(θ)",
+          "bold_line": "このベクトルについて内積を書く"
+        },
+        {
+          "article": "余弦定理の左辺を展開して、整理すると、ベクトルの角度の公式を得ることができます。a→{\\displaystyle {\\overrightarrow {a}}} • a→{\\displaystyle {\\overrightarrow {a}}} - a→{\\displaystyle {\\overrightarrow {a}}} • b→{\\displaystyle {\\overrightarrow {b}}} - b→{\\displaystyle {\\overrightarrow {b}}} • a→{\\displaystyle {\\overrightarrow {a}}} + b→{\\displaystyle {\\overrightarrow {b}}} • b→{\\displaystyle {\\overrightarrow {b}}} = a→{\\displaystyle {\\overrightarrow {a}}} • a→{\\displaystyle {\\overrightarrow {a}}} + b→{\\displaystyle {\\overrightarrow {b}}} • b→{\\displaystyle {\\overrightarrow {b}}} - 2|a| |b|cos(θ)- a→{\\displaystyle {\\overrightarrow {a}}} • b→{\\displaystyle {\\overrightarrow {b}}} - b→{\\displaystyle {\\overrightarrow {b}}} • a→{\\displaystyle {\\overrightarrow {a}}} = -2|a| |b|cos(θ)-2(a→{\\displaystyle {\\overrightarrow {a}}} • b→{\\displaystyle {\\overrightarrow {b}}}) = -2|a| |b|cos(θ)a→{\\displaystyle {\\overrightarrow {a}}} • b→{\\displaystyle {\\overrightarrow {b}}} = |a| |b|cos(θ)",
+          "bold_line": "おなじみの公式を導く"
+        }
+      ],
+      "part_title": "ベクトルの角度の公式を証明する"
+    }
+  ],
+  "meta_title": "2つのベクトルの角度を求める方法: 12 ステップ (画像あり) - wikiHow",
+  "num_part": 2,
+  "original_title": "How_to2つのベクトルの角度を求める",
+  "part_name_exist": true
+}

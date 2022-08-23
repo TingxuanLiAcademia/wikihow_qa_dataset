@@ -1,0 +1,79 @@
+{
+  "contents": [
+    {
+      "part_contents": [
+        {
+          "article": "「緑、赤、黄の円の中に青の丸」のアイコンです。",
+          "bold_line": "Google Chromeを開く"
+        },
+        {
+          "article": "ドロップダウンメニューが表示されます。アップデートが利用可能である場合は、アイコンの色が緑、黄または赤になります。古いバージョンのChromeでは、このアイコンは☰のように表示されます。",
+          "bold_line": "Chrome画面の右上にある⋮をクリックする"
+        },
+        {
+          "article": "ヘルプを選択すると、ポップアウト画面が開きます。ドロップダウンメニューの上部にGoogle Chromeを更新オプションが表示されている場合は、「ヘルプ」ではなくこちらをクリックします。",
+          "bold_line": "ドロップダウンメニューの下部にあるヘルプを選択する"
+        },
+        {
+          "article": "",
+          "bold_line": "ポップアウト画面の上部にあるChromeについてをクリックする"
+        },
+        {
+          "article": "アップデート処理は数分程度で完了します。「Google Chromeは最新版です」と表示されている場合は、その時点においてブラウザをアップデートする必要はありません。",
+          "bold_line": "Google Chromeがアップデートされるまで待つ"
+        },
+        {
+          "article": "Chromeのアップデート完了後に表示される再起動ボタンをクリックするか、またはChromeの画面を一度閉じて再度開きます。これで、ブラウザが最新版になっているはずです。「Chromeについて」のページに再度アクセスし、画面の左側に「Google Chromeは最新版です」と表示されているかどうかを確かめて、Chromeブラウザの状態を確認します。",
+          "bold_line": "Google Chromeを再起動する"
+        }
+      ],
+      "part_title": "デスクトップ"
+    },
+    {
+      "part_contents": [
+        {
+          "article": "水色背景の上に筆記具を並べて「A」を表現しているアイコンのアプリです。通常App Storeアイコンはホーム画面上にあります。",
+          "bold_line": "iPhoneのApp Storeを開く"
+        },
+        {
+          "article": "",
+          "bold_line": "画面の右下にあるアップデート をタップする"
+        },
+        {
+          "article": "画面の上部にある「利用可能なアップデート」欄に、Chromeアイコンが表示されており、その横にアップデートボタンがあるはずです。「利用可能なアップデート」欄にChromeが表示されていない場合、使用しているChromeは最新版です。",
+          "bold_line": "Chromeの横に表示されているアップデートをタップする"
+        },
+        {
+          "article": "パスワードを入力すると、Google Chromeのアップデートが開始されます。Apple IDのパスワードを求められなかった場合は、「アップデート」ボタンをタップした時点でGoogle Chromeのアップデートが始まります。",
+          "bold_line": "Apple IDのパスワードを求められた場合は入力する"
+        }
+      ],
+      "part_title": "iPhone"
+    },
+    {
+      "part_contents": [
+        {
+          "article": "白い背景に複数色の三角形が描かれたアイコンです。",
+          "bold_line": "Google Play Storeを開く"
+        },
+        {
+          "article": "",
+          "bold_line": "画面の左上にある☰をタップする"
+        },
+        {
+          "article": "",
+          "bold_line": "画面の左側に表示されるポップアウトメニューにあるマイアプリ＆ゲームをタップする"
+        },
+        {
+          "article": "「アップデート」タブに「緑、赤、黄の円の中に青の丸」のChromeアイコンがあるはずです。タップすると、Chromeのアップデートが開始されます。マイアプリ＆ゲームの「アップデート」タブにChromeが表示されていない場合は、使用しているChromeは最新版です。",
+          "bold_line": "Chromeアイコンをタップする"
+        }
+      ],
+      "part_title": "Android"
+    }
+  ],
+  "meta_title": "Google Chromeをアップデートする 3つの方法 - wikiHow",
+  "num_part": 3,
+  "original_title": "How_toGoogle_Chromeをアップデートする",
+  "part_name_exist": true
+}

@@ -1,0 +1,98 @@
+{
+  "contents": [
+    {
+      "part_contents": [
+        {
+          "article": "このソフトウェアでSWF形式のFlashコンテンツを再生したり、SWF形式のFlashゲームをプレイしたりすることができます。",
+          "bold_line": "ブラウザでhttp://www.swffileplayer.com/（英語のみ）にアクセスする"
+        },
+        {
+          "article": "ページの左側にある緑色のボタンのことで、クリックするとダウンロードページが表示されます。",
+          "bold_line": "Download Now（今すぐダウンロード）をクリックする"
+        },
+        {
+          "article": "数秒後にファイルのダウンロードが開始され、その数分後には完了するはずです。ファイルが自動的にダウンロードされない場合は、Click here（こちらをクリック）というリンクをクリックして、ファイルを強制的にダウンロードすることも可能です。",
+          "bold_line": "ファイルのダウンロードが完了するまで待つ"
+        },
+        {
+          "article": "には、以下の操作を行います。ブラウザまたはダウンロードフォルダにある「swffileplayer_setup.exe」ファイルをダブルクリックします。Next（次へ）をクリックします。「I accept the agreement（利用規約に同意します）」の左側にあるラジオボタンをオンにして、 Next（次へ）をクリックします。 Browse（参照）をクリックします。インストール先を指定して、OKをクリックします。Next（次へ）をクリックします。 Browse（参照）をクリックしてスタートメニューにあるフォルダを選択するか、 Next（次へ）をクリックして次へ進みます。「Create desktop icon（デスクトップ上にショートカットを作成する）」の左側にあるラジオボタンをオンまたはオフにして、 Next（次へ）をクリックします。Install（インストール）をクリックします。Finish（完了）をクリックします。",
+          "bold_line": "SWF File Playerをインストールする"
+        },
+        {
+          "article": "スタートメニューまたはデスクトップにある「SWF」という灰色のアイコンのことで、クリックするとSWF File Playerが起動します。",
+          "bold_line": "SWF File Playerを起動する"
+        },
+        {
+          "article": "SWF File Playerウィンドウの左上にあり、クリックするとドロップダウンメニューが表示されます。",
+          "bold_line": "File（ファイル）をクリックする"
+        },
+        {
+          "article": "File（ファイル）ドロップダウンメニューの一番上にあり、クリックするとエクスプローラーウィンドウが表示されます。",
+          "bold_line": "Open...（開く...）をクリックする"
+        },
+        {
+          "article": "SWFファイルが保存されているフォルダをクリックします。おそらく目的のフォルダはナビゲーションウィンドウ（エクスプローラーウィンドウの左側）に表示されているはずです。",
+          "bold_line": "ファイルが保存されているフォルダを選択する"
+        },
+        {
+          "article": "開きたいファイルをクリックします。",
+          "bold_line": "SWFファイルを選択する"
+        },
+        {
+          "article": "エクスプローラーウィンドウの右下にあります。",
+          "bold_line": "Open（開く）をクリックする"
+        },
+        {
+          "article": "ウィンドウ下部のファイル属性一覧の下にあり、クリックするとSWFファイルが再生されます。ゲームの場合は、Webページに埋め込まれているものと同じようにプレイ可能です。",
+          "bold_line": "Play（再生）をクリックする"
+        }
+      ],
+      "part_title": "Windowsの場合"
+    },
+    {
+      "part_contents": [
+        {
+          "article": "Elmedia Video PlayerはApp Storeから無料でダウンロード可能です。には、以下の操作を行います。App Storeアプリを起動します。画面右上の検索バーに「Elmedia」と入力します。「Elmedia Video Player」の下にある入手をクリックします。「Elmedia Video Player」の下にある Appをインストールをクリックします。Apple IDのパスワードを入力して「Enter」キーを押します。",
+          "bold_line": "Elmedia Video Playerをダウンロードしてインストールする"
+        },
+        {
+          "article": "画面右上の虫眼鏡のようなアイコンのことです。",
+          "bold_line": "Spotlightをクリックする"
+        },
+        {
+          "article": "と入力する検索条件に一致するMac上のアプリの一覧が表示されます。",
+          "bold_line": "elmedia player"
+        },
+        {
+          "article": "Elmedia Video Playerが起動します。",
+          "bold_line": "Elmedia Video Player.appをクリックする"
+        },
+        {
+          "article": "Elmedia VideoPlayerの無料版を引き続き使うことができます。",
+          "bold_line": "無料で使い続けるをクリックする"
+        },
+        {
+          "article": "画面上部のメニューバーにあります。",
+          "bold_line": "ファイルをクリックする"
+        },
+        {
+          "article": "ファイルドロップダウンメニューの一番上にあり、クリックするとFinderウィンドウが表示されます。",
+          "bold_line": "開く...をクリックする"
+        },
+        {
+          "article": "Finderウィンドウの左側で、SWFファイルが保存されているフォルダをクリックし、SWFファイルをクリックします。",
+          "bold_line": "SWFファイルを選択する"
+        },
+        {
+          "article": "ウィンドウの右下にあり、クリックするとElmedia Video PlayerでSWFファイルが開きます。SWFファイルが動画ファイルの場合は、自動的に再生が開始されます。すべてのSWFファイルをElmedia Video Playerで再生できるわけではありません。ファイルが開かない場合は、おそらくMacで再生することはできません。",
+          "bold_line": "開くをクリックする"
+        }
+      ],
+      "part_title": "Macの場合"
+    }
+  ],
+  "meta_title": "SWFファイルを開く方法 (画像あり) - wikiHow",
+  "num_part": 2,
+  "original_title": "How_toSWFファイルを開く",
+  "part_name_exist": true
+}

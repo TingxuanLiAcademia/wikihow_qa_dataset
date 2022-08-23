@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "part_contents": [
+        {
+          "article": "これはAdBlockまたはAdblock Plusがインストールされているブラウザである必要があります。",
+          "bold_line": "ブラウザを起動する"
+        },
+        {
+          "article": "Chrome：ウィンドウの右上にある三点リーダーをクリックしてその他のツールを選択し、拡張機能をクリックします。Firefox：ウィンドウの右上にあるハンバーガーアイコン（三本線アイコン）をクリックしてアドオンを選択し、拡張機能をクリックします。Microsoft Edge：ウィンドウの右上にある三点リーダーをクリックし、拡張機能を選択します。Safari：Safariを起動してSafariメニューをクリックし、Safari拡張機能...を選択します。",
+          "bold_line": "ブラウザの「拡張機能」ページを開く"
+        },
+        {
+          "article": "拡張機能の一覧から、無効にしたい広告ブロッカーを探しましょう。拡張機能の名前の近くには、有効か無効かを示すスイッチまたはチェックボックスがあります。",
+          "bold_line": "「AdBlock」または「Adblock Plus」を探す"
+        },
+        {
+          "article": "ChromeやFirefox、Microsoft Edgeの場合は、スイッチをオフ（灰色または白）にすると拡張機能が無効になります。Safariの場合は、左パネルのAdBlockまたはAdBlock Plusの横にあるチェックマークを外しましょう。AdBlockやAdblock Plusは、スイッチを再びオンにするか、対応するチェックボックスにチェックを入れれば、いつでも有効にすることができます。",
+          "bold_line": "スイッチまたはチェックボックスでAdBlockまたはAdblock Plusを無効にする"
+        }
+      ],
+      "part_title": "AdBlockやAdblock Plusを無効にする（パソコン）"
+    },
+    {
+      "part_contents": [
+        {
+          "article": "AdBlockまたはAdblock Plusが有効になっているブラウザでウェブサイトを表示すると、そのアイコンがブラウザの右上に表示されます。例えば、wikiHowでAdBlockを無効にしたい場合は、www.wikihow.comにアクセスします。",
+          "bold_line": "ウェブサイトにアクセスする"
+        },
+        {
+          "article": "Adblock Plusの場合は、赤い六角形の道路標識に白い「ABP」の文字が入ったアイコン、AdBlockの場合は、赤い六角形の道路標識に白い手が描かれたアイコンが表示されます。",
+          "bold_line": "AdBlockまたはAdblock Plusアイコンをクリックする"
+        },
+        {
+          "article": "Adblock Plusの場合は、「本ウェブサイト」（そのウェブサイト全体で広告を許可する場合）または「本ページ」（現在のページでのみ広告を許可する場合）の横にあるスイッチをオフにします。AdBlockの場合は、このページ上で実行しないを選択しましょう。Adblock Plusは、Adblock Plusアイコンをクリックしてスイッチをオンにすれば、いつでも有効に戻すことができます。このウェブサイトでAdBlockを再度有効にするときは、AdBlockアイコンをクリックし、このページでAdBlockを有効にするを選択しましょう。",
+          "bold_line": "そのページの広告ブロックを無効にする"
+        },
+        {
+          "article": "ブラウザのツールバーにある曲線矢印アイコンをクリックするか、ページの何も表示されていない部分を右クリックして更新または再読み込みを選択するとページが更新されます。これで、これまでブロックされていた広告が表示されるようになるはずです。",
+          "bold_line": "ページを更新する"
+        }
+      ],
+      "part_title": "個々のサイトでAdBlockやAdblock Plusを無効にする（パソコン）"
+    },
+    {
+      "part_contents": [
+        {
+          "article": "ホーム画面にある青と白のコンパスのアイコンのことです。",
+          "bold_line": "Safariを起動する"
+        },
+        {
+          "article": "Safari画面上部のアドレスバーにあります。",
+          "bold_line": "Aaアイコンをタップする"
+        },
+        {
+          "article": "メニューの下の方にあります。コンテンツブロッカーがオフになっている限り、Adblock PlusがSafariで広告をブロックすることはありません。Adblock Plusを再度有効にするときは、もう一度Aaをタップし、コンテンツブロッカーをオンにするを選択しましょう。",
+          "bold_line": "コンテンツブロッカーをオフにするをタップする"
+        }
+      ],
+      "part_title": "AdblockやAdblock Plusを無効にする（iPhone・iPad）"
+    },
+    {
+      "part_contents": [
+        {
+          "article": "Androidの場合、AdBlockはこの2つのブラウザでしか動作しません。Adblock PlusはGoogle Playストアでの販売が終了しているので、以下のステップはAdBlockのみを対象としています。",
+          "bold_line": "FirefoxまたはSamsung Internetを起動する"
+        },
+        {
+          "article": "ブラウザの右上にある三点リーダーのことです。",
+          "bold_line": "メニュー⋮をタップする"
+        },
+        {
+          "article": "ブラウザによって手順が異なります。Firefox：AdBlockをタップし、AdBlockを一時停止を選択します。Samsung Internet：コンテンツブロッカーなしで表示をタップします。",
+          "bold_line": "コンテンツブロッカーを無効にする"
+        },
+        {
+          "article": "Samsung Internetの場合は、他のサイトにアクセスするとすぐにコンテンツブロッカーが有効になるので、何も元に戻す必要はありません。Firefoxの場合は、メニューをタップしてAdBlockを選択し、AdBlockの一時停止を解除をタップしましょう。",
+          "bold_line": "必要に応じてAdBlockを再度有効にする"
+        }
+      ],
+      "part_title": "AdBlockを無効にする（Android）"
+    }
+  ],
+  "meta_title": "AdBlockを無効にする 4つの方法 - wikiHow",
+  "num_part": 4,
+  "original_title": "How_toAdBlockを無効にする",
+  "part_name_exist": true
+}

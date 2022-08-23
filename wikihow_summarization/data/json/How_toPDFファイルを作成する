@@ -1,0 +1,140 @@
+{
+  "contents": [
+    {
+      "part_contents": [
+        {
+          "article": "PDFCreatorやPDF factory Pro、PrimoPDFなど多くの無料PDF作成ソフトがあります。インターネットで探してダウンロードすることができます。Adobe Acrobat（PDF作成用）やAdobe Reader（PDF閲覧用）といったPDF作成ソフトウェアがすでにパソコンにインストールされていることもあります。他のソフトウェアをダウンロードする前にパソコン内を検索してみましょう。",
+          "bold_line": "PDF作成ソフトウェアを入手しましょう。"
+        },
+        {
+          "article": "",
+          "bold_line": "Microsoft Wordを開きます。"
+        },
+        {
+          "article": "何でもよいので、最終的にPDFへ変換する文書をMicrosoft Wordを使って作成しましょう。変換したい文書が既にあれば、その文書を開きましょう。",
+          "bold_line": "文書を作成します。"
+        },
+        {
+          "article": "",
+          "bold_line": "「ファイル」をクリックします。"
+        },
+        {
+          "article": "",
+          "bold_line": "「印刷」をクリックします。"
+        },
+        {
+          "article": "作成したいPDFの設定を行いましょう。",
+          "bold_line": "PDFプリンターを選択します。"
+        },
+        {
+          "article": "文書は実際に印刷されるのではなく、PDFへ変換されます。",
+          "bold_line": "「印刷」をクリックします。"
+        }
+      ],
+      "part_title": "WindowsでWord Docを使ってPDFを作成する"
+    },
+    {
+      "part_contents": [
+        {
+          "article": "PDFCreatorやPDF factory Pro、PrimoPDFなど多くの無料PDF作成ソフトがあります。インターネットで探してダウンロードすることができます。Acrobat（PDF作成用）やAdobe Reader（PDF閲覧用）といったPDF作成ソフトウェアがすでにパソコンにインストールされていることもあります。他のソフトウェアをダウンロードする前にパソコン内を検索してみましょう。",
+          "bold_line": "PDF作成ソフトウェアを入手しましょう。"
+        },
+        {
+          "article": "",
+          "bold_line": "Microsoft Wordを開きます。"
+        },
+        {
+          "article": "何でもよいので、最終的にPDFへ変換する文書をMicrosoft Wordを使って作成しましょう。変換したい文書が既にあれば、その文書を開きましょう。",
+          "bold_line": "文書を作成します。"
+        },
+        {
+          "article": "文書の左上にあるメニューの2番目のオプションです。",
+          "bold_line": "「ファイル」をクリックします。"
+        },
+        {
+          "article": "ドロップダウンメニューの下から2番目のオプションです。あるいは「別名で保存」を選択することも可能です。",
+          "bold_line": "「印刷」をクリックします。"
+        },
+        {
+          "article": "印刷メニューの左下にあるオプションです。三角をクリックします。あるいは、「フォーマット」メニューから「PDF」を選択することも可能です。",
+          "bold_line": "「PDF」を選択します。"
+        },
+        {
+          "article": "文書を保存するための新しいウィンドウが開きます。",
+          "bold_line": "「PDFで保存」を選択します。"
+        },
+        {
+          "article": "",
+          "bold_line": "文書の名前を付けます。"
+        },
+        {
+          "article": "ファイル名の横にある三角をクリックし、フォルダのリストを開いてフォルダを選択しましょう。",
+          "bold_line": "保存したいフォルダを選択します。"
+        },
+        {
+          "article": "これで文書が変換されPDFとして保存されます。",
+          "bold_line": "「保存」を選択します。"
+        }
+      ],
+      "part_title": "MacでWord Docを使ってPDFを作成する"
+    },
+    {
+      "part_contents": [
+        {
+          "article": "インターネットをブラウズし無料で有効なPDFコンバーターを見つけましょう。信頼できるコンバーターの1つがprintinpdf.comです。",
+          "bold_line": "信頼できるオンラインのコンバーターを見つけます。"
+        },
+        {
+          "article": "どのコンバーターにもファイルをブラウズし変換したいファイルを選択するオプションがあるでしょう。",
+          "bold_line": "「ファイルを選択」または「ブラウズ」をクリックします。"
+        },
+        {
+          "article": "ほとんどのオンラインコンバーターには、一度に変換できるのは3ファイルまで、といった制限があるでしょう。",
+          "bold_line": "必要な数だけファイルを選択します。"
+        },
+        {
+          "article": "ファイルがPDFへ変換されるのを待ちます。特に複数のファイルを変換する場合など、数分かかる場合もあります。処理が終了すると、ファイルがダウンロード可能であると通知があるでしょう。",
+          "bold_line": "「PDFへ変換」をクリックします。"
+        },
+        {
+          "article": "ファイルをクリックし、ダウンロードされるのを待ちましょう。",
+          "bold_line": "変換されたファイルをダウンロードします。"
+        },
+        {
+          "article": "これでPDFファイルの作成が完了しました。",
+          "bold_line": "ファイルをパソコンに保存します。"
+        }
+      ],
+      "part_title": "Windows、Macでオンラインのコンバーターを使用する"
+    },
+    {
+      "part_contents": [
+        {
+          "article": "",
+          "bold_line": "Google Chromeブラウザを入手しましょう。"
+        },
+        {
+          "article": "text/html, <html contenteditable>」と入力します。",
+          "bold_line": "アドレスバーに「data:"
+        },
+        {
+          "article": "ただし、画像は使用できません。",
+          "bold_line": "文章を入力、または貼り付けましょう。"
+        },
+        {
+          "article": "Ctrl+U=下線Ctrl+ I=イタリック体Ctrl+ B=太字Ctrl+ C=コピーCtrl+ V=貼り付けCtrl+ X=カットCtrl+ Z=元に戻すCtrl+ Y=やり直しCtrl+ A=全て選択Ctrl+ Shift+Z=プレーンテキストとして貼り付けCtrl+F=検索Ctrl+P=印刷",
+          "bold_line": "次のコマンドを使って文章の体裁を整えましょう。"
+        },
+        {
+          "article": "これをプリントします。プリンターの選択で「PDFとして保存」を選択しましょう。",
+          "bold_line": "保存しましょう。"
+        }
+      ],
+      "part_title": "Google Chromeブラウザを使用する"
+    }
+  ],
+  "meta_title": "PDFファイルを作成する 4つの方法 - wikiHow",
+  "num_part": 4,
+  "original_title": "How_toPDFファイルを作成する",
+  "part_name_exist": true
+}

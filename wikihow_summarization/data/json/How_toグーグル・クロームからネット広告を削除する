@@ -1,0 +1,119 @@
+{
+  "contents": [
+    {
+      "part_contents": [
+        {
+          "article": "Chromeのアプリは赤、黄、緑、青色で構成された円が目印です。モバイル版では埋込型の広告をブロックすることはできませんが、目障りなポップアップを非表示にすることは可能です。",
+          "bold_line": "Google Chromeを開く"
+        },
+        {
+          "article": "このボタンは画面右上に配置されています。ここをタップしてドロップダウンメニューを表示します。",
+          "bold_line": "&# 8942;をタップする"
+        },
+        {
+          "article": "ドロップダウンメニュー下部に配置されています。",
+          "bold_line": "設定をタップする"
+        },
+        {
+          "article": "（iPhone）またはサイトの設定（Android）をタップするこれはページの下部近くに配置されています。",
+          "bold_line": "コンテンツの設定"
+        },
+        {
+          "article": "（iPhone）またはポップアップ（Android）をタップするiPhoneでは画面上部近く、Androidでは画面下部近くに配置されています。",
+          "bold_line": "ポップアップのブロック"
+        },
+        {
+          "article": "これにより、今後Google Chrome上でポップアップ広告が表示されることはありません。既にポップアップを許可しない（ブロックする）設定になっている場合は、Google Chromeはポップアップ広告をブロックしています。",
+          "bold_line": "「ポップアップのブロック」または「ポップアップ」横のスイッチを右にスライドさせ、ポップアップを無効にします。"
+        }
+      ],
+      "part_title": "モバイル版"
+    },
+    {
+      "part_contents": [
+        {
+          "article": "Chromeは赤、黄、緑、青色で構成された円が目印です。",
+          "bold_line": "Google Chromeを開く"
+        },
+        {
+          "article": "Chromeのアドレスバーにhttps://getadblock.com/と入力します。",
+          "bold_line": "AdBlockのサイトに移動する"
+        },
+        {
+          "article": "ページ中央に青色のボタンが配置されています。これをクリックすると、拡張機能追加を確認する画面が表示されます。",
+          "bold_line": "ADBLOCKを今すぐ入手！をクリックする"
+        },
+        {
+          "article": "AdBlock のインストールが完了すると、 開いていたページは自動的に更新されます。",
+          "bold_line": "確認画面上の拡張機能を追加をクリックする"
+        },
+        {
+          "article": "「止まれ」の標識を思わせる赤の背景に白い手が描かれたアイコンです。Chrome画面の右上に配置されています。",
+          "bold_line": "AdBlockのアイコンをクリックする"
+        },
+        {
+          "article": "AdBlockのドロップダウンメニューの中ほどに配置されています。",
+          "bold_line": "設定をクリックする"
+        },
+        {
+          "article": "ページ上部に配置されています。",
+          "bold_line": "フィルターリスト タブをクリックする"
+        },
+        {
+          "article": "このボックスはフィルターリストページの上部に配置されています。チェックを外すと、ブロックできる広告が増えます。既にチェックが外されている場合は、そのまま次のステップに進みましょう。",
+          "bold_line": "\"Acceptable Ads\"ボックスのチェックを外す"
+        },
+        {
+          "article": "他に以下のようなオプションがあります。AdBlock Warning Removalリスト：AdBlockの使用に対する警告文を削除します。Antisocialフィルターリスト：フェイスブックの「いいね！」ボタン等の、ソーシャルメディアのボタンを全て削除します。EasyPrivacy：プライバシー保護のため、トラッキングを防止します。Fanboy's Annoyances：様々なページ内ポップアップを削除します。Malware protection：マルウェア問題が報告されているサイトをブロックします。",
+          "bold_line": "その他の広告ブロック用オプションにチェックを入れる"
+        },
+        {
+          "article": "これで、Google Chrome上の広告のほとんどが非表示になります。",
+          "bold_line": "AdBlockのタブを閉じる"
+        }
+      ],
+      "part_title": "デスクトップ版（AdBlockを使う場合）"
+    },
+    {
+      "part_contents": [
+        {
+          "article": "Chromeは赤、黄、緑、青色で構成された円が目印です。",
+          "bold_line": "Google Chromeを開く"
+        },
+        {
+          "article": "Chromeのアドレスバーにhttps://adblockplus.org/と入力します。Adblock PlusはAdBlockとは無関係です。",
+          "bold_line": "AdBlock Plusのサイトに移動する"
+        },
+        {
+          "article": "ページの右側に緑色のボタンが配置されています。これをクリックすると拡張機能追加を確認する画面が表示されます。ボタン名はお使いのブラウザ名を含みます。つまり、Chromeを使っている場合、ボタンの名称は「Agree and Install for Chrome」と表示されます。",
+          "bold_line": "Agree and Installをクリックする"
+        },
+        {
+          "article": "Adblock Plusのインストールが始まります。AdBlock のインストールが完了すると、 開いていたページは自動的に更新されます。",
+          "bold_line": "確認画面上の拡張機能を追加をクリックする"
+        },
+        {
+          "article": "このアイコンは赤色の背景に白文字で\"ABP\"と書かれた停止標識のような形をしており、Chrome画面の右上に配置されています。",
+          "bold_line": "Adblock Plusのアイコンをクリックする"
+        },
+        {
+          "article": "ABPアイコン下に表示されるドロップダウンリスト内に配置されています。",
+          "bold_line": "オプションをクリックする"
+        },
+        {
+          "article": "これはページの下部にあります。このオプションは一部の広告表示を許可するものです。このチェックを外すことで、可能な限りの広告をブロックできます。既にボックスのチェックが外されている場合は、Adblock Plusは控えめな広告を表示させていません。このオプションが見当たらない場合は、フィルタリストタブを開いていることを確認してください。",
+          "bold_line": "\"控えめな広告を許可\"ボックスのチェックを外す"
+        },
+        {
+          "article": "これで、Google Chrome上の広告のほとんどが非表示になります。",
+          "bold_line": "Adblock Plusのタブを閉じる"
+        }
+      ],
+      "part_title": "デスクトップ版（Adblock Plusを使う場合）"
+    }
+  ],
+  "meta_title": "グーグル・クロームからネット広告を削除する 3つの方法 - wikiHow",
+  "num_part": 3,
+  "original_title": "How_toグーグル・クロームからネット広告を削除する",
+  "part_name_exist": true
+}

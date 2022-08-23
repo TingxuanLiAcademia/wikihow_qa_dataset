@@ -1,0 +1,145 @@
+{
+  "contents": [
+    {
+      "part_contents": [
+        {
+          "article": "",
+          "bold_line": "Google Chromeを開く"
+        },
+        {
+          "article": "",
+          "bold_line": "画面右上の⋮ボタンをクリックする"
+        },
+        {
+          "article": "",
+          "bold_line": "設定をクリックする"
+        },
+        {
+          "article": "",
+          "bold_line": "ページの一番下までスクロールして、詳細設定 をクリックする"
+        },
+        {
+          "article": "この項目は、「プライバシーとセキュリティ」の最下部付近にあります。",
+          "bold_line": "下にスクロールして、コンテンツの設定をクリックする"
+        },
+        {
+          "article": "",
+          "bold_line": "下にスクロールして、ポップアップをクリックする"
+        },
+        {
+          "article": "これによって、Chromeでウェブサイト閲覧時に、ポップアップがブロックされずに表示されるようになります。「ブロック」の下にある、「追加」をクリックして、ポップアップを表示したくないウェブサイトのURLを入力することで、そのサイトのポップアップを個別にブロックできます。",
+          "bold_line": "ブロック の設定を「許可」に切り替える"
+        }
+      ],
+      "part_title": "Google Chrome"
+    },
+    {
+      "part_contents": [
+        {
+          "article": "",
+          "bold_line": "Mozilla Firefoxを開く"
+        },
+        {
+          "article": "",
+          "bold_line": "画面右上にある ☰ ボタンをクリックする"
+        },
+        {
+          "article": "",
+          "bold_line": "オプションをクリックする"
+        },
+        {
+          "article": "",
+          "bold_line": "画面左のペインにあるコンテンツ をクリックする"
+        },
+        {
+          "article": "これによって、Firefoxでウェブサイト閲覧時に、ポップアップがブロックされずに表示されるようになります。チェックを外さずに、ポップアップ画面を表示したいウェブサイトを個別に設定するには、チェックボックス右側にある「許可サイト」をクリックして、ポップアップ画面が開くのを許可するサイトのURLを入力します。 許可 と 変更を保存をクリックします。",
+          "bold_line": "「ポップアップウィンドウをブロックする」のチェックを外す"
+        }
+      ],
+      "part_title": "Mozilla Firefox"
+    },
+    {
+      "part_contents": [
+        {
+          "article": "",
+          "bold_line": "Edgeを開く"
+        },
+        {
+          "article": "",
+          "bold_line": "画面右上にある…ボタンをクリックする"
+        },
+        {
+          "article": "",
+          "bold_line": "設定をクリックする"
+        },
+        {
+          "article": "",
+          "bold_line": "下にスクロールして、詳細設定を表示をクリックする"
+        },
+        {
+          "article": "これによって、Edgeでウェブサイト閲覧時に、ポップアップがブロックされずに表示されるようになります。",
+          "bold_line": "「ポップアップをブロックする」を「オフ」に切り替える"
+        }
+      ],
+      "part_title": "Microsoft Edge"
+    },
+    {
+      "part_contents": [
+        {
+          "article": "",
+          "bold_line": "Internet Explorerを開く"
+        },
+        {
+          "article": "",
+          "bold_line": "画面右上のボタンをクリックする"
+        },
+        {
+          "article": "",
+          "bold_line": "インターネットオプションをクリックする"
+        },
+        {
+          "article": "プライバシーを選択する",
+          "bold_line": "プライバシーを選択する"
+        },
+        {
+          "article": "",
+          "bold_line": "「ポップアップブロックを有効にする」のチェックを外す"
+        },
+        {
+          "article": "これによって、Internet Explorerでウェブサイト閲覧時に、ポップアップがブロックされずに表示されるようになります。チェックを外さずに、ポップアップ画面を表示したいウェブサイトを個別に設定するには、「ポップアップブロックを有効にする」の右側にある「設定」をクリックして、ポップアップ画面が開くのを許可するサイトのURLを入力します。 追加 と 閉じるをクリックします。",
+          "bold_line": "OKボタンをクリックする"
+        }
+      ],
+      "part_title": "Microsoft Internet Explorer"
+    },
+    {
+      "part_contents": [
+        {
+          "article": "",
+          "bold_line": "Safariを開く"
+        },
+        {
+          "article": "",
+          "bold_line": "メニューバーのSafariをクリックする"
+        },
+        {
+          "article": "",
+          "bold_line": "環境設定…をクリックする"
+        },
+        {
+          "article": "",
+          "bold_line": "セキュリティ タブをクリックする"
+        },
+        {
+          "article": "これによって、Safariでウェブサイト閲覧時に、ポップアップがブロックされずに表示されるようになります。Safariでは、ポップアップをブロックするウェブサイトを個別に設定することはできません。",
+          "bold_line": "「Webコンテンツ」の中にある「ポップアップウインドウを開かない」のチェックを外す"
+        }
+      ],
+      "part_title": "Safari"
+    }
+  ],
+  "meta_title": "ポップアップブロックを無効にする 5つの方法 - wikiHow",
+  "num_part": 5,
+  "original_title": "How_toポップアップブロックを無効にする",
+  "part_name_exist": true
+}

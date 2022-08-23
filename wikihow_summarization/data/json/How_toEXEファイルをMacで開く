@@ -1,0 +1,106 @@
+{
+  "contents": [
+    {
+      "part_contents": [
+        {
+          "article": "サイトのURLは、http://winebottler.kronenberg.org/ です。WineBottlerは、上級者向けのプログラムであるWINEに、使いやすいインターフェースを加えたプログラムです。WINEでは実行できないプログラムもあります。お持ちのEXEファイルをWINEで実行できない場合は、代わりにBoot Campを使用する必要があるでしょう。",
+          "bold_line": "WineBottlerのサイトに行く"
+        },
+        {
+          "article": "画面の中ほどにある、緑の矢印が表示されたボタンです。OS X Capitan以前のOSを使用している場合は、「WineBottler 1.6.1 Stable」をクリックしましょう。",
+          "bold_line": "「WineBottler 1.8-rc4 Development」ボタンをクリックする"
+        },
+        {
+          "article": "クリックすると、広告ページが表示されます。",
+          "bold_line": "画面が表示されたら、 Download をクリックする"
+        },
+        {
+          "article": "「SKIP AD」ボタンが表示されるまでの間、ページ上に表示されているものを一切クリックしないようにしましょう。広告ブロックツールを使用している場合は、最初にこのページでの広告ブロックを無効にする必要があるでしょう。",
+          "bold_line": "5秒後に画面の右上に表示される SKIP AD（広告をスキップ）をクリックする"
+        },
+        {
+          "article": " 5秒以内にWineBottlerのダウンロードが開始されなければ、「WineBottlerCombo_1.8-rc4.dmg」のリンクをクリックして、強制的にダウンロードを開始できます。",
+          "bold_line": "WineBottlerがダウンロードされるのを待つ"
+        },
+        {
+          "article": "WineBottlerのセットアップファイルをダブルクリックした後、「Wine」と「WineBottler」アイコンを青い「アプリケーション」フォルダへドラッグします。",
+          "bold_line": "WineBottlerをインストールする"
+        },
+        {
+          "article": "クリックすると、ドロップダウンメニューが表示されます。",
+          "bold_line": "EXEファイルを2本指でクリックする"
+        },
+        {
+          "article": "",
+          "bold_line": "ドロップダウンメニューの上の方にある このアプリケーションで開く をクリックする"
+        },
+        {
+          "article": "クリックすると、確認ウィンドウが表示されます。",
+          "bold_line": "ドロップダウンメニューの左側か右側に表示されるアプリケーションの一覧の中にある Wine をクリックする"
+        },
+        {
+          "article": "もしチェックされていない場合は、「Run directly in [ファイルのパス]」の左にあるラジオボタンをクリックします。",
+          "bold_line": "「Run directly in」のオプションに必ずチェックを入れる"
+        },
+        {
+          "article": "確認ウィンドウの右下にある青いボタンです。指定したEXEファイルがWINEに対応している限り、読み込みが開始されます。指定したEXEファイルがWINEで実行されなかった場合は、次の方法に進みましょう。",
+          "bold_line": "Go をクリックする"
+        }
+      ],
+      "part_title": "WINEを使う"
+    },
+    {
+      "part_contents": [
+        {
+          "article": "macOSのBoot Campは、Windows 8、8.1、そして10に対応しています。WindowsのISOイメージファイルは、Microsoftのサイトからダウンロードできます。",
+          "bold_line": "Windowsインストールファイルを準備する"
+        },
+        {
+          "article": "画面の右上にある虫眼鏡のアイコンをクリックして、「ユーティリティ」と入力するとフォルダが開きます。",
+          "bold_line": "Macのユーティリティフォルダを開く"
+        },
+        {
+          "article": "灰色のハードディスクドライブのようなアイコンです。",
+          "bold_line": "Boot Campアシスタントアイコンをダブルクリックする"
+        },
+        {
+          "article": "Windowsのインストールファイルの選択、Windowsをインストールするディスクの選択、Macの再起動が必要になります。WindowsをUSBメモリからインストールしている場合は、処理中にUSBメモリを接続するように案内されます。",
+          "bold_line": "画面に表示される指示に従う"
+        },
+        {
+          "article": "Boot Campの設定が終わると、Macを再起動するように案内されます。Macの再起動が完了すると、Windowsのインストーラー画面が表示されます。",
+          "bold_line": "Macの再起動を待つ"
+        },
+        {
+          "article": "USBメモリからWindowsをインストールする場合、インストールを続行するために、このオプションを選択する必要があります。ISOファイルから直接、Windowsをインストールする場合は、Boot Campが自動的にドライブのパーティションを設定します。",
+          "bold_line": "必要に応じて、「BOOTCAMP」のパーティションを選択する"
+        },
+        {
+          "article": "この処理は、使用するWindowsのバージョンによって異なりますが、Boot Campアシスタントの設定時と同じように、処理の最後にMacを再起動します。",
+          "bold_line": "画面に表示されるWindowsインストールの指示に従う"
+        },
+        {
+          "article": "再起動すると、Startup Managerの画面が表示されます。",
+          "bold_line": "Option キーを押し続けてMacを再起動する"
+        },
+        {
+          "article": " Macの起動ディスクがすべて表示されます。",
+          "bold_line": "Startup Managerが表示されたら、 Option キーを離す"
+        },
+        {
+          "article": "キーを押すと、MacにWindowsのOSが読み込まれます。",
+          "bold_line": "「Boot Camp」アイコンをクリックして、 Return を押す"
+        },
+        {
+          "article": "Windowsを使用している限り、EXEファイルをダブルクリックすると、ファイルは直ちに実行されます。",
+          "bold_line": "EXEファイルの場所を特定して、ファイルをダブルクリックする"
+        }
+      ],
+      "part_title": "Boot Campを使う"
+    }
+  ],
+  "meta_title": "EXEファイルをMacで開く方法 (画像あり) - wikiHow",
+  "num_part": 2,
+  "original_title": "How_toEXEファイルをMacで開く",
+  "part_name_exist": true
+}

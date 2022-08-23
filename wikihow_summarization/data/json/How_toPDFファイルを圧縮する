@@ -1,0 +1,119 @@
+{
+  "contents": [
+    {
+      "part_contents": [
+        {
+          "article": "こちらのリンクをクリックするか、ブラウザにURLを入力して  Return を押します。Chromeウェブストアから、SmallpdfのエクステンションをChromeにインストールすることもできます。",
+          "bold_line": "https://smallpdf.com/compress-pdf に行きます。"
+        },
+        {
+          "article": "",
+          "bold_line": "ウィンドウの中央下部にある Choose file をクリックします。"
+        },
+        {
+          "article": "",
+          "bold_line": "圧縮したいPDFファイルの場所を確認して、選択します。"
+        },
+        {
+          "article": "ファイルがアップロードされ、圧縮が開始されます。",
+          "bold_line": "開く をクリックします。"
+        },
+        {
+          "article": "画面の左下にあるボタンです。",
+          "bold_line": "下にスクロールして、Download File Now をクリックします。"
+        },
+        {
+          "article": "",
+          "bold_line": "ファイルの保存場所を選択します。"
+        },
+        {
+          "article": "圧縮されたPDFファイルがお使いのパソコンの指定した場所へ保存されます。",
+          "bold_line": "保存 をクリックします。"
+        }
+      ],
+      "part_title": "Smallpdf.comのPDF圧縮を使用する"
+    },
+    {
+      "part_contents": [
+        {
+          "article": "写真が2枚重なったような青いプレビューアイコンをダブルクリックして開きます。メニューバーの「ファイル」、そしてドロップダウンメニューの「開く...」をクリックします。ダイアログボックスでファイルを選択して、「開く」をクリックします。プレビューアプリは、Appleのネイティブアプリケーションであるのイメージビューアーで、MacOSのほとんどのバージョンに自動的に含まれています。",
+          "bold_line": "PDF文書をプレビューアプリで開きます。"
+        },
+        {
+          "article": "",
+          "bold_line": "画面上部のメニューバーにある ファイル をクリックします。"
+        },
+        {
+          "article": "ドロップダウンメニューの中ほどにあります。クリックすると、ダイアログボックスが開きます。",
+          "bold_line": "書き出す… をクリックします。"
+        },
+        {
+          "article": "",
+          "bold_line": "「フォーマット」ドロップダウンリストをクリックします。"
+        },
+        {
+          "article": "一番上にあるオプションです。",
+          "bold_line": "PDF をクリックします。"
+        },
+        {
+          "article": "",
+          "bold_line": "「Quartz フィルタ」ドロップダウンリストをクリックします。"
+        },
+        {
+          "article": "",
+          "bold_line": "Reduce File Size をクリックします。"
+        },
+        {
+          "article": "",
+          "bold_line": "PDFを保存する場所を選択します。"
+        },
+        {
+          "article": "これで、圧縮されたPDFがお使いのMacに保存されました。",
+          "bold_line": "保存 をクリックします。"
+        }
+      ],
+      "part_title": "Macでプレビューを使用する"
+    },
+    {
+      "part_contents": [
+        {
+          "article": "赤いAの文字が入った白いAdobe Acrobatアイコンを選択します。そして、画面上部のメニューバーにある「ファイル」をクリックします。「開く...」をクリックし、サイズを減らしたいPDF文書を選択して、「開く」をクリックします。",
+          "bold_line": "PDF文書をAdobe Acrobat Proで開きます。"
+        },
+        {
+          "article": "",
+          "bold_line": "画面上部のメニューバーにある ファイル をクリックします。"
+        },
+        {
+          "article": "ドロップダウンメニューの中ほどにあります。",
+          "bold_line": "その他の形式で保存... をクリックします。"
+        },
+        {
+          "article": "",
+          "bold_line": "サイズが縮小されたPDF... をクリックします。"
+        },
+        {
+          "article": "",
+          "bold_line": "「互換性を確保」ドロップダウンリストをクリックします。"
+        },
+        {
+          "article": "互換性を最新バージョンのみに限定することで、ファイルサイズを大幅に減らすことができます。",
+          "bold_line": "Acrobatの最新バージョンをクリックします。"
+        },
+        {
+          "article": "",
+          "bold_line": "ファイルを保存する場所を選択します。"
+        },
+        {
+          "article": "これで、お使いのパソコンに更に圧縮されたファイルとしてPDFが保存されました。",
+          "bold_line": "保存 をクリックします。"
+        }
+      ],
+      "part_title": "Adobe Acrobat Proを使用する"
+    }
+  ],
+  "meta_title": "PDFファイルを圧縮する 3つの方法 - wikiHow",
+  "num_part": 3,
+  "original_title": "How_toPDFファイルを圧縮する",
+  "part_name_exist": true
+}

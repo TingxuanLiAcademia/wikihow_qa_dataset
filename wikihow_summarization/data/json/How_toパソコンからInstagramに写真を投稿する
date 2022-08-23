@@ -1,0 +1,103 @@
+{
+  "contents": [
+    {
+      "part_contents": [
+        {
+          "article": "BlueStacks App Playerは、パソコンでAndroidのアプリを動かすことのできるエミュレータです。BlueStacks App Playerはウェブサイトから無料でダウンロードできます。BlueStacksをダウンロードする際、「App store access」にチェックマークが付いていることを確認しましょう。BlueStacksを初めて使用する時には開始に少し時間がかかることがあります。",
+          "bold_line": "BlueStacks App Playerをダウンロードしてインストールします。"
+        },
+        {
+          "article": "まず、BlueStacksのメインページを開き、左上部にある虫眼鏡のアイコンをクリックしてアプリの検索を始めます。そこに「Instagram」と入力してから、Google Play Storeを開きましょう。",
+          "bold_line": "Instagramアプリを検索します。"
+        },
+        {
+          "article": "Google Play Storeを選択すると、Googleアカウントを使ってログインするように誘導されます。BlueStacksのアカウントがあればそれでログインも可能であり、アカウントがなければ新規アカウントを作ることもできます。",
+          "bold_line": "Googleアカウントを使ってBlueStacksにログインします。"
+        },
+        {
+          "article": "Google Play StoreでInstagramのアプリのページを開き、「無料」のボタンを押して「Install」をクリックしましょう。InstagramはBlueStacks上にダウンロード、およびインストールされます。",
+          "bold_line": "Instagramのアプリをダウンロードします。"
+        },
+        {
+          "article": "BlueStacksのメインページにInstagramのアプリを開き、自分のInstagramのアカウントにログインします。モバイル版Instagramのインターフェイスと同様の画面が表示されます。",
+          "bold_line": "Instagramのアカウントにログインしましょう。"
+        },
+        {
+          "article": "(Windowsの場合)画面下のカメラのボタンをクリックします。カメラのウィンドウのシャッターボタンの左にある「Other Files」をクリックします。リストの下にある「Pick from Windows」をクリックします。アップロードしたいファイルを表示しましょう。",
+          "bold_line": "写真をアップロードします。"
+        },
+        {
+          "article": "(OS Xの場合)ファインダーのピクチャフォルダからアップロードしたい画像をコピーします。BlueStacksに「ES File Explorer」をダウンロードします。Instagramのアプリをダウンロードしたときと同じ手順でダウンロードできます。Instagramを開き、カメラボタンをクリックします。「Pick from Gallery」を選択します。「ES File Explorer」を選択します。「bstfolder」のディレクトリを開きます。これで自分のMacのユーザディレクトリへのアクセスが可能となります。写真フォルダを開き、アップロードしたい画像を選択しましょう。",
+          "bold_line": "写真をアップロードします。"
+        },
+        {
+          "article": "画像を選択したら、スマートフォンで行うのと同様にトリミングや編集ができます。フィルターをかけたりキャプションをつけたり、検索にひっかかりやすいようなハッシュタグをつけたりしましょう。",
+          "bold_line": "画像を編集してキャプションをつけます。"
+        },
+        {
+          "article": "写真の編集が終わったら、フォロワーに写真をシェアしましょう。フォロワー全員にではなく、特定のユーザーだけに送ることもできます。",
+          "bold_line": "写真をシェアします。"
+        }
+      ],
+      "part_title": "BlueStacksの使い方"
+    },
+    {
+      "part_contents": [
+        {
+          "article": "GramblrはパソコンからInstagramに直接画像をアップロードできるWindowsとMacの無料ソフトです。Gramblrインストーラを使ってインストールします。Windowsをご使用の場合、インストーラはZIPファイルでダウンロードされるため、解凍する必要があります。",
+          "bold_line": "Gramblrをダウンロードします。"
+        },
+        {
+          "article": "Gramblrでは、Instagramのアプリのように写真のトリミングや編集は行えません。そのため、自分で650 * 650pxのサイズにトリミングする必要があります。 GramblrではJPGとJpegのフォーマットしか扱えません。",
+          "bold_line": "写真を準備します。"
+        },
+        {
+          "article": "Gramblrを初めて使う際、Instagramアカウントにログインするよう誘導されます。GramblrはInstagramに認可されていません。そのため、アカウント情報が記録されないという保証はありません。その上で、多くのユーザーがGramblrを定期的に使用しています。",
+          "bold_line": "Gramblrを動かします。"
+        },
+        {
+          "article": "画面中央の「Choose File」をクリックするとファイルの中の写真が画面に並びます。先ほどサイズを調整した画像を選び、「Upload」をクリックします。サイズが適切に調整されていない画像を選択した場合、長方形の画像が正方形になるようにゆがんで表示されます。",
+          "bold_line": "写真をアップロードします。"
+        },
+        {
+          "article": "次の画面で画像にキャプションを付けることができます。キャプションを付け終えたら「Save Caption」をクリックします。ハッシュタグを付けた画像をGramblrから投稿した場合、アカウントに問題が生じる場合があるようです。キャプションにハッシュタグを付ける時には注意しましょう。",
+          "bold_line": "キャプションを付けます。"
+        }
+      ],
+      "part_title": "Gramblrの使い方"
+    },
+    {
+      "part_contents": [
+        {
+          "article": "Dropboxはクラウドストレージサービスであり、これを使うとデバイス間でのファイルのやり取りを短時間で行うことが可能となります。この方法はモバイル端末を使用する必要がありますが、モバイル端末をパソコンと同期することなく短時間で簡単にパソコンから大量の写真をInstagramにアップロードすることができます。Dropboxのアカウントを作成すると無料で2GBの容量を使用でき、それにより大量の写真を移動させることができます。",
+          "bold_line": "Dropboxのアカウントを作成しましょう。"
+        },
+        {
+          "article": "アカウントを作ったら、Dropboxのウェブサイト経由かWindowsとMac向けのDropboxのソフトをダウンロードすることでDropboxの持ち分の容量に画像を保存することができるようになります。",
+          "bold_line": "パソコンからDropboxに画像を保存します。"
+        },
+        {
+          "article": "スマートフォンのアプリストアからDropboxのアプリを無料でダウンロードできます。このアプリから自分のDropbox容量にアクセスできます。Instagramのアプリもスマートフォンにダウンロードしておく必要があります。",
+          "bold_line": "Dropboxのアプリをダウンロードしましょう。"
+        },
+        {
+          "article": "このとき、Dropboxのアカウントにログインする必要があります。",
+          "bold_line": "スマートフォンでDropboxのアプリを開きます。"
+        },
+        {
+          "article": "Dropboxのアプリの写真ファイルを開くか、スマートフォンの写真フォルダから写真をタップして表示します。",
+          "bold_line": "Instagramにアップロードする写真を選んでタップします。"
+        },
+        {
+          "article": "写真が表示された画面の「シェアする」ボタンをタップします。シェア先の選択肢からInstagramを選ぶと、Instagramのアプリを開くかどうかを尋ねられます。この先はInstagramの通常の使い方通りに編集とシェアができます。",
+          "bold_line": "写真をInstagramでシェアしましょう。"
+        }
+      ],
+      "part_title": "Dropboxの使い方"
+    }
+  ],
+  "meta_title": "パソコンからInstagramに写真を投稿する 3つの方法 - wikiHow",
+  "num_part": 3,
+  "original_title": "How_toパソコンからInstagramに写真を投稿する",
+  "part_name_exist": true
+}
